@@ -95,6 +95,23 @@ The application implements **Retrieval-Augmented Generation (RAG)** using Google
                  v
           AI-Generated Answer
 ```
+## Application Screenshots
+
+### Dashboard
+![DocMind Dashboard](screenshots/dashboard.png)
+
+### Document Upload
+![Document Upload](screenshots/document-upload.png)
+
+### AI-Powered Question Answering
+![AI Chat](screenshots/ai-chat.png)
+
+### Retrieved Document Chunks
+![Retrieved Chunks](screenshots/retrieved-chunks.png)
+
+### Backend API Response
+![API Response](screenshots/api-response.png)
+
 
 ## Running the Project Locally
 
