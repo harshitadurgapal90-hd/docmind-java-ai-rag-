@@ -179,5 +179,16 @@ Open the local frontend URL displayed in the terminal.
 
 ## What This Project Demonstrates
 
-- Building RESTful backend services using Java and Spring Boot.
-- Integr
+-Building RESTful backend services using Java and Spring Boot.
+
+-Integrating Generative AI into Java applications using Spring AI.
+
+-Implementing a complete RAG workflow.
+
+-Processing and extracting content from different document formats.
+
+-Generating and storing vector embeddings.
+
+-Implementing semantic search using PostgreSQL PGVector.
+
+-Building context-aware AI question-answering functionality.
